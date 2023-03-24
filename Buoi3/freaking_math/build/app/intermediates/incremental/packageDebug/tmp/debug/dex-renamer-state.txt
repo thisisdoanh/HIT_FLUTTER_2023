@@ -1,0 +1,4 @@
+#Fri Mar 24 22:22:59 ICT 2023
+base.0=D\:\\Workspace\\Flutter\\HIT_FLUTTER_2023\\Buoi3\\freaking_math\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

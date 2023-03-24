@@ -1,0 +1,360 @@
+{
+   "checksum": "f05fc545a0f679be6fdda04ffffe89c7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13291141764921711",
+            "date_last_used": "0",
+            "guid": "e089c191-d456-41af-971a-0a8372e9b006",
+            "id": "12",
+            "name": "Trang chủ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sites.google.com/view/phamhoanggiang96"
+         }, {
+            "date_added": "13294290427439375",
+            "date_last_used": "0",
+            "guid": "3c8e13c8-8657-4bac-b12c-8ebe96dfd378",
+            "id": "13",
+            "name": "Google Dịch",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/?sl=en&tl=vi&text=masculine&op=translate"
+         }, {
+            "date_added": "13294942265971861",
+            "date_last_used": "0",
+            "guid": "3444014f-0a1e-4b3a-a991-dcf26d0057ce",
+            "id": "14",
+            "name": "STK - Google Trang tính",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1a3UYpqv1odclU2eP2Q5ALGbq2sE1JuoaOHI8QRiCAd8/edit#gid=0"
+         }, {
+            "children": [ {
+               "date_added": "13321720111146543",
+               "date_last_used": "0",
+               "guid": "da6ea1a6-a62a-41b5-932e-3e28607cf604",
+               "id": "16",
+               "name": "DartPad",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://dartpad.dev/"
+            }, {
+               "date_added": "13321720134621493",
+               "date_last_used": "0",
+               "guid": "6e77e5db-5437-4e3c-8940-2fdd35775000",
+               "id": "17",
+               "name": "Dart programming language | Dart",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://dart.dev/"
+            }, {
+               "date_added": "13321720148560112",
+               "date_last_used": "0",
+               "guid": "38dd05da-d382-4fec-92da-649096bb739a",
+               "id": "18",
+               "name": "Flutter samples",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://flutter.github.io/samples/#"
+            }, {
+               "date_added": "13321720151546037",
+               "date_last_used": "0",
+               "guid": "3520e9d7-21a1-483e-a18a-c2c587cf5e07",
+               "id": "19",
+               "name": "Flutter Gallery",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://gallery.flutter.dev/"
+            }, {
+               "date_added": "13321720154690847",
+               "date_last_used": "0",
+               "guid": "097937d2-00b6-4f73-8a15-de53646d6e22",
+               "id": "20",
+               "name": "Flutter - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/flutterdev"
+            }, {
+               "date_added": "13321720157488583",
+               "date_last_used": "0",
+               "guid": "f0741392-e2c8-4146-a66a-535bc284bba5",
+               "id": "21",
+               "name": "Flutter documentation | Flutter",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://docs.flutter.dev/"
+            } ],
+            "date_added": "13321720127357451",
+            "date_last_used": "0",
+            "date_modified": "13321720157488583",
+            "guid": "bedd8e07-6248-4cff-a2e0-68181e41d985",
+            "id": "15",
+            "name": "Flutter",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13294255573891448",
+               "date_last_used": "13321869110982457",
+               "guid": "d9bf2a00-1aca-4f77-a006-6007779a5184",
+               "id": "23",
+               "name": "Đại học công nghiệp Hà Nội - Cổng thông tin điện tử",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://sv.dhcnhn.vn/"
+            }, {
+               "date_added": "13307513433314837",
+               "date_last_used": "0",
+               "guid": "25fe5c55-1430-4be7-9478-529e50963bfa",
+               "id": "24",
+               "name": "Trường Ngoại ngữ và du lịch - HaUI",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://eop.edu.vn/study/group?id=dgFfbjZwlqQ4B6nFt3GU8Uqg%3D%3D"
+            }, {
+               "date_added": "13311746587085421",
+               "date_last_used": "13312133409379624",
+               "guid": "7b6d0ced-c046-49d1-a1d6-08ca7fbd74d8",
+               "id": "25",
+               "name": "Học trực tuyến - Khoa Lý luận chính trị - Pháp luật - HaUI",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://ctpl.dhcn.vn/login"
+            }, {
+               "date_added": "13323108785742152",
+               "date_last_used": "0",
+               "guid": "42036176-5b68-4a3f-ae90-63c7ef344d12",
+               "id": "26",
+               "name": "How to manually install your Intel® Graphics Driver in Windows® 10",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://helpx.adobe.com/vn_vi/x-productkb/multi/drivers-video-win-intel.html"
+            } ],
+            "date_added": "13321869138256460",
+            "date_last_used": "0",
+            "date_modified": "13323108785742152",
+            "guid": "3e18a713-1b5c-4c12-9f96-292bc8b3d29b",
+            "id": "22",
+            "name": "HaUI",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13313855282392520",
+            "date_last_used": "13323531443425812",
+            "guid": "71d68a46-d605-47a2-b79e-35ab4827c6d4",
+            "id": "27",
+            "name": "• Discord | Phòng Học 1 | JAVA_HIT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://discord.com/channels/1044605912045850624/1044605912490459159"
+         }, {
+            "date_added": "13315126694130680",
+            "date_last_used": "0",
+            "guid": "b6dfda2e-e1e1-491b-8371-47864efbb51c",
+            "id": "28",
+            "name": "Game hack tải nhiều - Hướng dẫn, chia sẻ game mod, game hack cho iOS miễn phí tại GameiOS.VN",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gameios.vn/most-downloaded-game"
+         }, {
+            "date_added": "13315246564807229",
+            "date_last_used": "0",
+            "guid": "3ffa9c99-bfb7-4e6c-8fb7-ddc04c0893e3",
+            "id": "29",
+            "name": "C/C++ HIT - 2021 - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1oJitzHOG653HogLRLVrgWSa7nXwobfYb"
+         }, {
+            "date_added": "13317916635248655",
+            "date_last_used": "0",
+            "guid": "747899f1-7d4a-46be-b338-dec99e7b2e04",
+            "id": "30",
+            "name": "2040438 - Tìm trên Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=2040438&oq=20&aqs=edge.0.69i59j69i57j0i131i433i512j0i512l3j69i61l3.2677j0j1&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13318522975374293",
+            "date_last_used": "0",
+            "guid": "49889f2a-a9d7-4ff3-82c5-3ef951d3988b",
+            "id": "31",
+            "name": "dz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/14UPSwf8usbj5nFI6Upn1xmPwmoIcdg0pmeAGzdtRScI/edit"
+         }, {
+            "date_added": "13322164043329660",
+            "date_last_used": "0",
+            "guid": "6795c85c-d6f1-44db-88a4-e4a92855f066",
+            "id": "32",
+            "name": "Windows 10 Simplify MPB phiên bản Win10 Pro 21H1 hỗ trợ chơi game mượt mà",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.truongblogger.top/2022/03/windows-10-simplify-mpb.html?fbclid=IwAR38tWCSbDQhrYePIFa2AvjaBNd71-APOFQLZ9y90POKbQDEgxjYmsPJ4pY"
+         }, {
+            "children": [ {
+               "date_added": "13323282886950861",
+               "date_last_used": "0",
+               "guid": "b70acff5-d266-4740-86a3-b084998b6618",
+               "id": "34",
+               "name": "Kho ảnh miễn phí",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.pexels.com/vi-vn/"
+            }, {
+               "date_added": "13323282920229231",
+               "date_last_used": "0",
+               "guid": "edcac427-4c6f-4f52-9ce2-6e539a347845",
+               "id": "35",
+               "name": "Beautiful Free Images & Pictures | Unsplash",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://unsplash.com/"
+            }, {
+               "date_added": "13323282933324432",
+               "date_last_used": "0",
+               "guid": "5c453ca5-46af-4802-b314-97c699a9914c",
+               "id": "36",
+               "name": "Mixkit - Awesome free assets for your next video project",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://mixkit.co/"
+            }, {
+               "date_added": "13323620718445903",
+               "date_last_used": "0",
+               "guid": "fa5c159e-f794-41ce-a60e-0abd95c75718",
+               "id": "37",
+               "name": "Figma - Material 3 Design Kit | Introducing Material Design 3 Meet Material Design 3, Material Design’s most personal design syst...",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.figma.com/community/file/1035203688168086460/Material-3-Design-Kit"
+            } ],
+            "date_added": "13323282874680260",
+            "date_last_used": "0",
+            "date_modified": "13323620718445903",
+            "guid": "5115b610-b273-4d25-bfb4-812b27bbf502",
+            "id": "33",
+            "name": "TL video",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13324133875544233",
+         "date_last_used": "0",
+         "date_modified": "13322164043329660",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13255019898517652",
+            "date_last_used": "0",
+            "guid": "26d7bd60-c8b8-47bf-8367-113f34b22a5f",
+            "id": "10",
+            "name": "Băng Đô Cài Tóc Vải Nhung Mềm Mượt Nhiều Mẫu Thời Trang Hàn Quốc | Shopee Việt Nam",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shopee.vn/B%C4%83ng-%C4%90%C3%B4-C%C3%A0i-T%C3%B3c-V%E1%BA%A3i-Nhung-M%E1%BB%81m-M%C6%B0%E1%BB%A3t-Nhi%E1%BB%81u-M%E1%BA%ABu-Th%E1%BB%9Di-Trang-H%C3%A0n-Qu%E1%BB%91c-i.61364537.7529128373"
+         }, {
+            "date_added": "13277633810129887",
+            "date_last_used": "0",
+            "guid": "8e833c05-d8f8-4d3a-93d4-8b1413f08c4f",
+            "id": "11",
+            "name": "StuDocu - Free summaries, past exams & lecture notes",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.studocu.com/vn"
+         } ],
+         "date_added": "13324133875544238",
+         "date_last_used": "0",
+         "date_modified": "13277633810129887",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13236276336625090",
+            "date_last_used": "0",
+            "guid": "18bca6f5-76ca-4154-81ec-42467463c2c5",
+            "id": "6",
+            "name": "TUT Dame Mạo Danh 723 Mới Nhất - Helperfb - Chia sẻ thủ thuật Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://helperfb.com/dame-723/"
+         }, {
+            "date_added": "13236276428520084",
+            "date_last_used": "0",
+            "guid": "c9b9dff4-08b8-4141-87fc-4499d9afa196",
+            "id": "7",
+            "name": "TUT Dame Link 808 - Chết 100% - Báo cáo tài khoản giả mạo - Helperfb - Chia sẻ thủ thuật Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://helperfb.com/link-808/"
+         }, {
+            "date_added": "13236276604380874",
+            "date_last_used": "0",
+            "guid": "a16fba48-efed-4712-938b-18712106c757",
+            "id": "8",
+            "name": "TUT Dame Link 178 - Chết 100% Chết ngay tức khắc - Báo cáo tài khoản phạm nhân - Helperfb - Chia sẻ thủ thuật Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://helperfb.com/dame-link-178/"
+         }, {
+            "date_added": "13236276608590935",
+            "date_last_used": "0",
+            "guid": "0dc486ec-169a-4136-a7b4-20fa58591a82",
+            "id": "9",
+            "name": "TUT Dame 277 - mạo danh 277 5s - Helperfb - Chia sẻ thủ thuật Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://helperfb.com/dame-277/"
+         } ],
+         "date_added": "13324133875544240",
+         "date_last_used": "0",
+         "date_modified": "13236276608590935",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCFqnABSHAQAAEgAgASoYd0lVSXVBekhpWURHbG00R0VuVVNrdz09oAYMEqkBCA0SpAEKHEVGMXBDMEN5WDdNVCsrRjJFNDdnWXM4MGgrOD0SJDNjOGUxM2M4LTg2NTctNGJhYy1iMTJjLThlYmU5NmRmZDM3OBgAIAIoAjCB4bic8TA49cv9hYIwQJycuJzxMEocT2JSNkpsVEVaWEVTKzBCbHlvNWZsRzgwNU1JPVogIh7/1ml4a2tTTEdjb3Y0TGxjNlZDK2VnRlM1SmdZbz1lxc+QARKqAQgLEqUBChxtUzg2SFRzdWJCQkZMdW0wampGRG1hdm00eGs9EiQ4ZTgzM2MwNS1kOGY4LTRkM2EtOTNkNC04YjE0MTNmMDhjNGYYACAAKAAwh6qD5vcvOL+rg+b3L0C/q4Pm9y9KHEFFSittd1QwTERjM1BFYXdQZDlnS0tUTUIxYz1aISIf//+7UCtCcnNxN1JBa0JlSGszSTFKSUZORWJqdFk0PWUTvKS3EqcBCBASogEKHDJwSmR6Sjc4VFp0WTdmSFhCaUtJcGdKY3NOUT0SJGRhNmVhMWE2LWE2MmEtNDFiNS05MzJlLTNlMjg2MDdjZjYwNBgAIAAoADCChryd6DA454m7negwQOeJu53oMEocOHNuaEM3eG9wTENPZXNqL29DK0NzQ3M3RUpJPVoeIhxsSHdydHl6U0hJVDR3NVdQZFQvMnp0UFlqVmM9ZUliNPwSpwEIGBKiAQocelFxb2ZZTXZtdWRQdFY2UE1QcGovakI1OUNBPRIkMjVmZTVjNTUtMTQzMC00YmU3LTk0NzgtNTI5ZTUwOTYzYmZhGAAgACgAMO6VxOToMDjJ05inszBAydOYp7MwShxHL2JIUGJMU0NpTFQ1U2RHcHVtQVBWcnVVQjQ9Wh4iHHVwVTNFbW5Xa2lXaURCNGxiZjdrN1NTYW5yQT1lzYz1pBKoAQglEqMBChx5NEU4OStvWWtjQll6NEtSZ3lhV0ZmcGxXUDg9EiRmYTVjMTU5ZS1mNzk0LTQxY2UtYTYwZS0wYWJkOTVjNzU3MTgYACAAKAAw9+Pep+8wOKnk3qfvMECp5N6n7zBKHDVTbDEyeU1nd1dHL2VqU0Q4NWNrN3lzNUw0cz1aHyId6GRsZFJ4VUFzNXRZcW5NVXczRUJJSFFmcU9Ecz1l+YqZxhKoAQgJEqMBChxCZmpyS2Q1RXBVTEZTKzFMejdSb2xGMTlldzA9EiQwZGM0ODZlYy0xNjlhLTQxMzYtYTdiNC0yMGZhNTg1OTFhODIYACAAKAAwh6qD5vcvOK+rg+b3L0Cvq4Pm9y9KHHZYNGE0UG8zalFwSlArb0k4WTRjZkhZY0Fidz1aHyId3mNGMm1JSVlEKzJBdHAyN1BFeHA4SlRydFZ2TT1lcu+vSxKnAQgHEqIBChx0ZkU2b2djWG1rQUI4S1psRW81b1YyQkxSeU09EiRjOWI5ZGZmNC0wOGI4LTQxNDEtODdmYy00NDk5ZDlhZmExOTYYACAAKAAwneaH5vcvOKnoh+b3L0Cp6Ifm9y9KHDU5T1dTdGM1UkhDN1ZhV2FHQUtpcEhYeEkyRT1aHiIceWZONDVuWG54cmtMbnBMU3czNjRYRVp2aFI4PWVy769LEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDU3MTQ1MzBjLWIwM2EtNTBjMC05MjkwLTgwMDAwODFiYmEwNxgAIAAoADC75/eOszA4rt/2uugvQK7f9rroL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqAEICBKjAQocdkhCRG03TkNsOUdOOGVtWjhWdVZYRHFrWWdVPRIkYTE2ZmJhNDgtZWZlZC00NzEyLTkzOGItMTg3MTIxMDZjNzU3GAAgACgAMMv5hOb3Lzjm+oTm9y9A5vqE5vcvShxzQXZpVkZVUnBwRkpzbXUyWU5uYzA1aVRINTA9Wh8iHbxtYk5VZ3NlazV6SFVVZDhad2pXa09oRTdRKzg9ZXLvr0sSqAEIERKjAQocOXBXQWlZY2hrWldzTStqa2lZaTM4M1hkRGpjPRIkNmU3N2U1ZGItNTQzNy00ZTNjLTg5NDAtMmZkZDM1Nzc1MDAwGAAgACgAMNXavJ3oMDjIv7yd6DBAyL+8negwShxvaGFsOFZNYTRZdlNCWHNTOGhTdWR1WXJXeTA9Wh8iHdt3a1VWSEk3M1VoUGdmZURTOWE4eUhtWjluYjQ9ZQAYigsSqgEIIBKlAQocRlZ2akRZSWhGcTQ0c3hIN3B4MTRobEE3Y1RjPRIkNjc5NWM4NWMtZDZmMS00NGRiLTg4YTQtZTRhOTI4NTVmMDY2GAAgACgAMK7uub3qMDiNwJLx6TBAjcCS8ekwShxvU08vakk5NjBveHRrZktOYm5VeWc2UXR1alk9WiEiH///+0twMy9ORy9vTzZxYmUwZXllMkc1QUYrWlAraz1lIchkMxKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRiMGU0ZGU0Ni1kM2NjLTUzODYtOTIwNS0zY2ZiOTQ3OTM4NjAYACAAKAAwu+f3jrMwOL3f9rroL0C93/a66C9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqoBCCESpQEKHHdGK1R0em5URnUwcjh0Tlp1L1FNTmRWOWlyYz0SJDUxMTViNjEwLWIyNzMtNGQyNS1iZmI0LTgxMmIyN2JiZjUwMhgAIAAoADCr0tKG7jA43dLShu4wQN3S0obuMEocOW81MkMvOUVjVzNhSVYzV2FQRDdvaExzeVg4PVohIh////1sQkRyR0tvK3NCb0F6eSt0VWxOb2VyTHQ3cFk9ZQAAAAASpwEIFxKiAQocSGJGckpxK0FTb1FzVnlTeWxHUG8wM1Zkd0hjPRIkZDliZjJhMDAtMWFjYS00Zjc3LWEwMDYtNjAwNzc3OWE1MTg0GAAgACgAMKTDxMjvMDjL+a31gTBAy/mt9YEwShxrSTVNTzBvWGNBYnluYzFFSW9pMXBjMHJMeEU9Wh4iHFZtaEtmeTYvOFMzaVlDaGlZckh0dTdpMmtqOD1lKee8BxKnAQgGEqIBChxweUZaSDdMRG5YMkE0bWdUcWdORGhCZUNNeU09EiQxOGJjYTZmNS03NmNhLTQxNTQtODFlYy00MjQ2NzQ2M2MyYzUYACAAKAAwh6qD5vcvOOGqg+b3L0DhqoPm9y9KHEdSdGpNdTQ3QUxERGlONGFQNUZpT0VKOE1ydz1aHiIcV3BUSkFkV0dGdWhYaWNoTjUrbTMvOXZVVy80PWVy769LEqkBCAoSpAEKHHhWcG5NaWdDQjBDSVVsbjRTSmJGUXVqUkFzMD0SJDI2ZDdiZDYwLWM4YjgtNDdiZi04MzY3LTExM2YzNGIyMmE1ZhgAIAAoADCN7ojm9y84ou+I5vcvQKLviOb3L0occHI2cDBrZmRkV0RxVW11QjdLMVVSMkhyZk5nPVogIh7//k5wSUM0WERLbEIyWThPZWw2ajNQcEVsM1RDZz1l85drqBKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRlYzllZDNmYS05NTk5LTVlMDMtYjUwNi1iMDdkMzA2MWM1NmQYACAAKAAwu+f3jrMwOPzf9rroL0D83/a66C9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqgBCBUSowEKHHlQNXh1Uk8ydTFYZC90ZGR2OFlEVWl2VUJrZz0SJGYwNzQxMzkyLWUyYzgtNDE0Ni1hNjZhLTUzNWJjMjg0YmJhNRgAIAAoADC28b2d6DA4hfK9negwQIXyvZ3oMEocNEpPdkkyRHVLa0pyUklta1FOc1RBRng3V2pjPVofIh39eUZmOFNaK1dyTFl5clJyTzNCTFVSUENGeENRPWXM9v15EqgBCBISowEKHDJzR3FhMjQ4Sml0d1hzRlU2TXNiTWRrWjhrUT0SJDM4ZGQwNWRhLWQzODItNGZlYy05MmRhLTY0OTA5NmJiNzM5YRgAIAAoADCArL2d6DA4uqy9negwQLqsvZ3oMEocRnFUK2FHcjJqd0tYRTBkQmJZTGRwd2R1a2s0PVofIh3tTHlUNUlLZHBseG5TNVBZUWpSQkZWajBCdnpnPWXvDnfYEqkBCA4SpAEKHEQ3d0piOUs5L0VQV091V3A2SkUweU0yQlVRYz0SJDM0NDQwMTRmLTBhMWUtNGIzYS1hOTkxLWRjZjI2ZDAwNTdjZRgAIAIoAjCD4bic8TA464zlvIQwQJ2cuJzxMEocYjFjd3pqWnZKN3JpTHF2a0tOSkl2andsSTNRPVogIh7/63ljRVhMWXBacXhheGtvYzc4UVNXYS83Slk4cz1loGbb6BKoAQgZEqMBChxaRVd3UUk3aVlkWnJNK241dEtkcEttcm85d0U9EiQ3YjZkMGNlZC1jMDQ2LTQ5ZDEtYTFkNi0wOGNhN2ZiZDc0ZDgYACAAKAAw6LjE5OgwOPm524nDMED5uduJwzBKHFdOWEhQeFAvYkYxTHdyZ0hJMUcxbm9aanp4Zz1aHyIduk5uSWdJZXd1TXk4YU5UVllTZlZ6ajJYUVpKQT1lzYz1pBKpAQgWEqQBChx0WW0rdVo2QXIyeDc5TUtBTUhBN09rSDZzNTg9EiQzZTE4YTcxMy0xYjVjLTRjMTItOWY5Ni0yOTJiYzhiM2QyOWIYACAAKAAwpLLF5OgwON/swuToMEDf7MLk6DBKHGNyMnQ4NUlDeVlQakhoVmxiMkR5SitGbXp2ST1aICIe//JKNWJ5enV1ZlpIMEdlR0tTR2xHdmlZbjlpN3M9ZQAAAAASqAEIExKjAQocMmRjbTYwWTJLbWZzUnJFVEFVemdzL3hqVnVJPRIkMzUyMGU5ZDctMjFhMS00ODNlLWExOGEtYzJjNTg3Y2Y1ZTA3GAAgACgAMI/DvZ3oMDjTw72d6DBA08O9negwShw0aWtGYXhtdEdCQlRuRzB0MmcwdE95MGQwT2s9Wh8iHfZzMEdJVXB1eGRwNnpmVHdQaFNtaVhLTWF6NHc9Zf4Ke4ESqAEIGhKjAQocUDlLQWMwQUxDL3QzVmJHVGtUNmVIMldXWUIwPRIkNDIwMzYxNzYtNWI2OC00YTNmLWFlOTAtNjNjN2VmMzQ0ZDEyGAAgACgAMJKO0bPtMDjFjtGz7TBAxY7Rs+0wShxHUlhLYjFkNGlmd3pDQTdaU3hza2kzS3BoaWM9Wh8iHd1ZTzlISitENWFSQ2lxczFXSW8wWTJnZmp2TUU9ZVfKGygSqQEIGxKkAQocOVhGOGkwVzZkOE9yWGprQ0RxaGpQbXg1cEhVPRIkNzFkNjhhNDYtZDYwNS00N2EyLWI3OWUtMzVhYjQ4MjdjNmQ0GAAgAigCMILhuJzxMDizuJz3yjBApJy4nPEwShxOUmVMTG1uWkFsekxpaHcraEsrYUcwTFFUeUk9WiAiHv//emN5QTBhRlJrRFV4dEEwVmJ4WWpXTk10elNvPWXnV8+UEqoBCB0SpQEKHGlleUVzL21YYzVMdzh4cXFIWTh2SmVYVEwvdz0SJDNmZmE5Yzk5LWJmYjctNGU2Yy04ZmI3LWRkYzA0YzA4OTNlMxgAIAIoAjCE4bic8TA40IbRjtAwQKacuJzxMEocY0xPbWxrQnBMSExMVUZrYkxxSmRqa2dTL2VzPVohIh///95UOUs1OWx4dFNZNjlRUUNudlV3RFIyaHkyek09ZfqR3tsSqQEIDxKkAQocdVpuQ3NCc0hMZEg5WXVkTzJEQmM0L0xGS0NrPRIkYmVkZDhlMDctNjI0OC00Y2ZmLWEyZTAtNjgxODFlNDFkOTg1GAAgACgAMKXFv+ToMDjGhryd6DBAxoa8negwShw5d3JULzNYQklCS3Z0RmlkVXEzaTllRERWd0E9WiAiHv/wYmYrQzJzdU45WlVxM0tJVnZGMGdBWlh4S2VFPWUAAAAAEqoBCB4SpQEKHEcyOExFeEFob2RVbjRRQWkvOXZLa3VaTWN3cz0SJDc0Nzg5OWYxLTdkNGEtNDZiZS1iMzM4LWRlYzk5ZTdiMmUwNBgAIAAoADDwm+mH2jA4v5zph9owQL+c6YfaMEocZDdjMlJCdSs3NStxWFVGUUxENFF3dC8rWTZvPVohIh///+9ZalZkZWVnWk5aZXo1RWxZOG1lQWFBYkFzc0U9ZQAAAAASqAEIFBKjAQocOFZTeG81NkthdnRFOWw5cFJTazhMdGdyb3dnPRIkMDk3OTM3ZDItMDBiNi00ZjczLThhMTUtZGU1MzY0NmQ2ZTIyGAAgACgAMMfbvZ3oMDiJ3L2d6DBAidy9negwShw0Snp3ajJtZ1ZwT3V4UUkrOFc4UGd1dTJ4UUE9Wh8iHfszdFpxYUdZbVA0SXhZU3NMLzM0ZytQa2ppZ2c9ZTj5OTMSqAEIJBKjAQocaXJTSURlY0NXb3FMYy9XRm0xa1o3ejZ1ZU9VPRIkNWM0NTNjYTUtNDZhZi00ODAyLWIzMTQtOTdjNjk5YTk5MTRjGAAgACgAMPac1obuMDiundaG7jBArp3Whu4wShx6T2lKbDhyQlFjVko0cXZkK2F5WTlrU0ROb0k9Wh8iHdBSdG1pZ0FhYzQ4NFVlb1JrNHNCSUs2K3JoQkk9ZSDLHmkSpwEIDBKiAQocWENPSmU0TmszVU94TGFtUkRJZmF1VUh1TS9jPRIkZTA4OWMxOTEtZDQ1Ni00MWFmLTk3MWEtMGE4MzcyZTliMDA2GAAgAigCMIbhuJzxMDj76cio9i9Am5y4nPEwShxBbFhQaEtGaFFBMU5GeC9JdjZlTUlhbTg5bzg9Wh4iHG5MaCs4Rmh2UmZlUWZnRlAwWWEwUk0reVFCOD1lCdwL7RKqAQgfEqUBChxOMU0vbFVsVWpQajRaSkEwK0Q3REI2RjRGMEk9EiQ0OTg4OWYyYS1hOWQ3LTRmZjMtODJjNS0zZWY5NTFkMzk4OGIYACAAKAAw7Nmw8+kwOK3M+ajcMECtzPmo3DBKHGExNFdBaFRXUzhHVEMxZjBsWlZJL1RmSHVEcz1aISIf///3RVdHRkoydjVaZnVkOE1YQkQ2RjB4bmlYSGdzPWXVR000EqcBCCISogEKHCtsMzQ0VEtPNFVEcFhaZkx2KzJWaXoweExVaz0SJGI3MGFjZmY1LWQyNjYtNDc0MC04NmEzLWIwODQ5OThiNjYxOBgAIAAoADCl1dOG7jA4s7LThu4wQLOy04buMEocbThDWjB0VXROSElVOE5SK3VwbG9tcEtsV0RjPVoeIhxDNWcza0MvY0I3NTY1OVk0UjAzMStZeGNVdTg9ZZO+bEkSqgEIHBKlAQocZFVVTXd5TFJMTXV6RWg0YnVaWXdPc3FsS1Y0PRIkYjZkZmRhMmUtZTFlMS00OTFiLTgzNzEtNDc4NjRlZmJiNTFjGAAgAigCMIXhuJzxMDim/rvVzzBApZy4nPEwShxhVjkrSjdqcy92VTljdi84SVJwTCtXcUkzL0E9WiEiH///vXVLR3hBa0djUEVjeXpRVnZGRHNBOFROck9lbz1lKlNNBhKoAQgjEqMBChw1Q1A4QU9pblBWSTgxUHdXZzR1a3pMQ1VYak09EiRlZGNhYzQyNy00YzZmLTRmNTItOWNlMi02ZTUzOWEzNDc4NDUYACAAKAAw6LbVhu4wOKS31YbuMECkt9WG7jBKHHVSOEtYOVh2RWw2ZXpiRXM4eW8rNE5QRDJJcz1aHyIdoThBR0lFZlYrWXpDNjZBSWdQQnRvbnFNTm91WT1lI3piQzAAOAA=",
+   "version": 1
+}

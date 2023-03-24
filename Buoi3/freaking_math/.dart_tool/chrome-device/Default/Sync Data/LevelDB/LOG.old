@@ -1,0 +1,9 @@
+2023/03/24-20:41:43.253 2c68 Reusing MANIFEST C:\Users\tranq\AppData\Local\Temp\flutter_tools.5b65ee98\flutter_tools_chrome_device.44f1d223\Default\Sync Data\LevelDB/MANIFEST-000001
+2023/03/24-20:41:43.253 2c68 Recovering log #3
+2023/03/24-20:41:43.257 2c68 Reusing old log C:\Users\tranq\AppData\Local\Temp\flutter_tools.5b65ee98\flutter_tools_chrome_device.44f1d223\Default\Sync Data\LevelDB/000003.log 
+2023/03/24-20:51:54.540 1f80 Level-0 table #5: started
+2023/03/24-20:51:54.560 1f80 Level-0 table #5: 196038 bytes OK
+2023/03/24-20:51:54.563 1f80 Delete type=0 #3
+2023/03/24-21:19:16.007 36ec Level-0 table #7: started
+2023/03/24-21:19:16.016 36ec Level-0 table #7: 161500 bytes OK
+2023/03/24-21:19:16.018 36ec Delete type=0 #4
