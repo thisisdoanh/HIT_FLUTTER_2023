@@ -1,19 +1,28 @@
 import 'package:flutter/material.dart';
 
-class AddTaskScreen extends StatelessWidget {
+class AddTaskScreen extends StatefulWidget {
   const AddTaskScreen({
     super.key,
+    required this.addTask,
   });
+
+  final Function addTask;
+
+  @override
+  State<AddTaskScreen> createState() => _AddTaskScreenState();
+}
+
+class _AddTaskScreenState extends State<AddTaskScreen> {
+  String inputTittle = "",
+      inputDL = "",
+      inputST = "",
+      inputET = "",
+      inputRemind = "",
+      inputRepeat = "",
+      inputColor = "";
 
   @override
   Widget build(BuildContext context) {
-    String inputTittle,
-        inputDL,
-        inputST,
-        inputET,
-        inputRemind,
-        inputRepeat,
-        inputColor;
     return Scaffold(
       appBar: AppBar(
         leading: IconButton(
@@ -115,7 +124,10 @@ class AddTaskScreen extends StatelessWidget {
             SizedBox(
               width: double.infinity,
               child: ElevatedButton(
-                onPressed: () {},
+                onPressed: () {
+                  _handleClickButtonAddTask();
+                  Navigator.pop(context);
+                },
                 child: const Text('Create a Task'),
               ),
             ),
@@ -123,10 +135,11 @@ class AddTaskScreen extends StatelessWidget {
         ),
       ),
     );
-  },
-
-
-}
-  void _handleOnCreateTask(){
-    Task();
   }
+
+  void _handleClickButtonAddTask() {
+    widget.addTask(inputTittle, inputDL, inputST, inputET, inputRemind,
+        inputRepeat, inputColor);
+    setState(() {});
+  }
+}

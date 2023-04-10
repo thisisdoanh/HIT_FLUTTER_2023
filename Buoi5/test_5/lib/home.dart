@@ -1,17 +1,19 @@
 import 'package:flutter/material.dart';
+import 'package:test_5/list_task.dart';
 
 import 'add_task.dart';
 import 'data_task.dart';
 
-final listTask = [
-  DataTask('Task1', ' ', ' ', ' ', ' ', ' '),
-];
-
-class Home extends StatelessWidget {
+class Home extends StatefulWidget {
   const Home({
     super.key,
   });
 
+  @override
+  State<Home> createState() => _HomeState();
+}
+
+class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
@@ -63,12 +65,19 @@ class Home extends StatelessWidget {
             ],
           ),
         ),
-        body: const TabBarView(
+        body: TabBarView(
           children: [
-            FirstScreen(),
-            FirstScreen(),
-            FirstScreen(),
-            FirstScreen(),
+            (listTask.length == 1)
+                ? FirstScreen(
+                    task: listTask[0],
+                  )
+                : FirstScreen(
+                    task: listTask[1],
+                  ),
+
+            // FirstScreen(),
+            // FirstScreen(),
+            // FirstScreen(),
           ],
         ),
       ),
@@ -77,31 +86,46 @@ class Home extends StatelessWidget {
 }
 
 class FirstScreen extends StatefulWidget {
-  const FirstScreen({super.key});
+  const FirstScreen({super.key, required this.task});
+
+  final DataTask task;
 
   @override
   State<FirstScreen> createState() => _FirstScreenState();
 }
 
 class _FirstScreenState extends State<FirstScreen> {
-  bool isDoned = false;
-  bool isFavorite = false;
+  void _handleAddTask(
+    String inputTittle,
+    String inputDL,
+    String inputST,
+    String inputET,
+    String inputRemind,
+    String inputRepeat,
+    String inputColor,
+  ) {
+    final newItem =
+        DataTask(inputTittle, inputST, inputET, inputDL, true, true);
+    listTask.add(newItem);
+    setState(() {});
+  }
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return SizedBox(
       width: double.infinity,
-      color: Colors.amber,
       child: Column(
         children: [
-          Task(listTask[0]),
+          Task(widget.task),
           const Spacer(),
           ElevatedButton(
               onPressed: () {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const AddTaskScreen(),
+                    builder: (context) => AddTaskScreen(
+                      addTask: _handleAddTask,
+                    ),
                   ),
                 );
               },
@@ -123,11 +147,11 @@ class _FirstScreenState extends State<FirstScreen> {
         children: [
           Expanded(
             child: Checkbox(
-              value: isDoned,
+              value: widget.task.isComplete,
               onChanged: (bool? value) {
                 setState(
                   () {
-                    isDoned = value!;
+                    widget.task.isComplete = value!;
                   },
                 );
               },
@@ -146,11 +170,11 @@ class _FirstScreenState extends State<FirstScreen> {
           Expanded(
             child: Checkbox(
               shape: const StadiumBorder(),
-              value: isFavorite,
+              value: widget.task.isFavorite,
               onChanged: (bool? value) {
                 setState(
                   () {
-                    isFavorite = value!;
+                    widget.task.isFavorite = value!;
                   },
                 );
               },
